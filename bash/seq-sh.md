@@ -36,7 +36,7 @@ In meantime Bash's brace expansion was significantly improved :
 * Bash 4.0 introduced sequence increment `{1..10..2}` and zero padding `{01..10}`
 
 </div>
-{: .note .icon-info}
+{: .note}
 
 Bash code - new, modern example
 {: .precaption}
