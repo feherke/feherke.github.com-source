@@ -38,8 +38,6 @@ calendar for November 2013
 
 [![sample calendar](cal-2013-11.png "follow this link to the full size view"){: .thumbnail}](cal-2013-11.png)
 
-[![sample calendar](cal-2013-11.png "follow this link to the full size view"){: .thumbnail}](astrocal-fontsample.png)
-
 This was originally written in PHP. Then partially rewritten in Ruby.
 ( Cancelled due to a bug in the RMagic module. ) So this is the third rewrite.
 This may explain some clumsiness, where the code was not refactored enough to be
