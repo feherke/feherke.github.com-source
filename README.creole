@@ -1,0 +1,5 @@
+= Feherke's GitHub Site - source
+
+This repository stores the sources for my GitHub site.
+
+[[http://feherke.github.io/|My GitHub site]] == glue between [[http://github.com/feherke/|my GitHub hosted projects]].

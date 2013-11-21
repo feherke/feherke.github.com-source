@@ -1,0 +1,26 @@
+
+Screenshot decoration
+~~~~~~~~~~~~~~~~~~~~~
+
+Crop tool
+  Select area
+  Add margin     20
+
+Filters | Decor | Fuzzy border
+  Color          ff00ff
+  Border size    5
+  Blur border    True
+  Granularity    4
+  Add shadow     False
+  Shadow weight  100
+  Work on copy   True
+  Flatten image  True
+
+Rectangle tool
+  Select entire
+  Subtract margin 15
+
+Invert selection
+
+Colors | Color to alpha
+  From           ff00ff
