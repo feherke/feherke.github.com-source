@@ -11,8 +11,6 @@ file:
   - astrocal.pl: script
   - astrocal-fontsample.pl: script
   - inifile.pm: module
-  - astrocal.pl.1: man page
-  - astrocal-fontsample.pl.1: man page
   - astrocal.ini: configuration
   - astrocal-shift.txt: configuration
   - astrocal-lang-en.ini: configuration

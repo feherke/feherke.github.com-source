@@ -10,13 +10,13 @@ directory: key-compose
 file:
   - KeyCompose.ahk: script
   - KeyCompose-conf.ahk: settings
-  - KeyCompose0.ico: image
-  - KeyCompose1.ico: image
-  - KeyCompose2.ico: image
-  - KeyCompose3.ico: image
-  - KeyCompose4.ico: image
-  - KeyCompose5.ico: image
-  - KeyCompose6.ico: image
+  - KeyCompose-0.ico: image
+  - KeyCompose-1.ico: image
+  - KeyCompose-2.ico: image
+  - KeyCompose-3.ico: image
+  - KeyCompose-4.ico: image
+  - KeyCompose-5.ico: image
+  - KeyCompose-6.ico: image
 ---
 
 # Key Compose

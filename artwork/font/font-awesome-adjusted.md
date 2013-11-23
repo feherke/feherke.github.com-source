@@ -40,7 +40,7 @@ bstyle: |
 project: Font-file
 directory: font-awesome-adjusted
 file:
-  - fontawesomeadjusted.sdf: font source
+  - fontawesomeadjusted.sfd: font source
   - fontawesomeadjusted.ttf: truetype font
   - fontawesomeadjusted.woff: web openfont
   - fontawesomeadjusted.svg: SVG font

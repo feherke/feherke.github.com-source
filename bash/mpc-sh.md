@@ -23,9 +23,10 @@ file:
 # mpc.sh - simple frontend for the mpc client for mpd
 
 In my subconscious I always tried to achieve something like [MPD](http://musicpd.org/ "Music Player Daemon"). And when I discovered it of course I choose
-[MPC](http://musicpd.org/mpc.shtml "Music Player daemon Command-line interface") as client. I really enjoy to start the music with `mpc play`, but there are situations
-when you wish to have a faster way too. Certainly there are adequate clients out there and using different clients in different circumstances would feet the
-client-server architecture. But I decided to not install, learn, run, maintain another client just for a few occasion. So I wrote this extremely dumb frontend.
+[MPC](http://musicpd.org/clients/mpc/ "Music Player daemon Command-line interface") as client. I really enjoy to start the music with `mpc play`, but there are
+situations when you wish to have a faster way too. Certainly there are adequate clients out there and using different clients in different circumstances would
+feet the client-server architecture. But I decided to not install, learn, run, maintain another client just for a few occasion. So I wrote this extremely dumb
+frontend.
 
 Never intended to be a full featured frontend and certainly never will be. But a playlist switcher with similar look &amp; feel may feet the original idea.
 

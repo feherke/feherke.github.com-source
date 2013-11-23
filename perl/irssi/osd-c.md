@@ -13,7 +13,7 @@ file:
 
 # OSD Chain
 
-Inspired by the [osd](http://vipie.studentenweb.org/dev/irssi/) script by Jeroen Coekaerts and Koenraad Heijlen. I used it and was happy with it. Thank you, guys.
+Inspired by the [osd.pl](http://scripts.irssi.org/html/osd.pl.html) script by Jeroen Coekaerts and Koenraad Heijlen. I used it and was happy with it. Thank you, guys.
 
 This script implements a controlling mechanism for filtering the messages. It uses a rule list which is traversed for each message. If the message's circumstances met
 the conditions of a rule, the rule's status is applied to the message. The last status indicates whether the message is displayed in OSD.
