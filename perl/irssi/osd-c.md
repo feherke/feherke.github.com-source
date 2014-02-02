@@ -5,6 +5,7 @@ meta:
   description: OSD display controlled with chained conditions.
 date: 2012-02-21
 tag: notification
+status: [stable, active]
 project: Irssi-script
 directory: osd-c
 file:

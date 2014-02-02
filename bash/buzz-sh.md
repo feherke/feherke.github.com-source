@@ -5,6 +5,7 @@ meta:
   description: Schedules an at job to pop up a message using various commands.
 date: 2013-02-02
 tag: notification
+status: [stable, active]
 project: Bash-script
 directory: buzz
 file:

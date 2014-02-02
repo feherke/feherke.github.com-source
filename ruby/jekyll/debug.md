@@ -5,6 +5,8 @@ meta:
   description: Allows calling any method of the template variables.
   keyword: debug
 date: 2013-11-17
+tag: filter
+status: [stable, active]
 project: Jekyll-plugin
 directory: debug
 file:

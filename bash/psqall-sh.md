@@ -4,6 +4,7 @@ title: psqall.sh
 meta:
   description: Runs the psql tool in a loop for more databases of the same server.
 date: 2012-11-13
+status: [stable, inactive]
 project: Bash-script
 directory: psqall
 file:

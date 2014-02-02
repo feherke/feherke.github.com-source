@@ -5,6 +5,7 @@ meta:
   description: Font Awesome icon font adjusted to my site's needs.
 date: 2013-02-04
 tag: font
+status: [stable, dormant]
 bstyle: |
   ul.sample {
     list-style-type: none;

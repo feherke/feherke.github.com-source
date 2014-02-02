@@ -6,6 +6,7 @@ meta:
   keyword: reply, quote, conversion, html2tgml
 date: 2012-10-09
 tag: TipMaster
+status: [outdated, active]
 project: Greasemonkey-script
 directory: tipmaster-reply-with-quote
 file:

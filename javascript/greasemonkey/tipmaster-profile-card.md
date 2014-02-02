@@ -6,6 +6,7 @@ meta:
   keyword: profile, card, brief, member
 date: 2013-03-29
 tag: TipMaster
+status: [stable, abandoned]
 project: Greasemonkey-script
 directory: tipmaster-profile-card
 file:

@@ -6,6 +6,7 @@ meta:
   keyword: markItUp, setting, tgml, markup, button
 date: 2012-04-28
 tag: TipMaster
+status: [stable, active]
 bstyle: |
   .tgml-demo {
     color: black;

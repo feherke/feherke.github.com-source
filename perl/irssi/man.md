@@ -4,6 +4,7 @@ title: Man
 meta:
   description: Brief Irssi script developer manual.
 date: 2012-02-21
+status: [stable, active]
 project: Irssi-script
 directory: man
 file:

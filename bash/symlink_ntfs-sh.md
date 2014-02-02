@@ -5,6 +5,7 @@ meta:
   description: Restores symlinks after copying them to NTFS and back.
 date: 2011-05-01
 tag: recovery
+status: [stable, inactive]
 project: bash-script
 directory: symlink_ntfs
 file:

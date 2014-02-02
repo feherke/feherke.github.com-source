@@ -4,6 +4,7 @@ title: seq.sh
 meta:
   description: Use the seq command to replace numeric part of a string with numeric sequences and multiplying the string.
 date: 2004-12-25
+status: [stable, active]
 project: Bash-script
 directory: seq
 file:

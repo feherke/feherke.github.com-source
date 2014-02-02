@@ -5,6 +5,7 @@ meta:
   description: Cleans up the Mozilla cookie file removing unwanted items.
 date: 2008-09-05
 tag: cleanup
+status: [stable, inactive]
 project: Bash-script
 directory: cookieclean
 file:

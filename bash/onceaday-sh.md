@@ -5,6 +5,7 @@ meta:
   description: Run commands enumerated in a configuration file, conditionally, only once a day.
 date: 2008-08-30
 tag: notification
+status: [stable, active]
 project: bash-script
 directory: onceaday
 file:

@@ -5,6 +5,7 @@ meta:
   description: Changes the protocol of the currently viewed URL
   keyword: switch, protocol, http, httpd
 date: 2012-02-07
+status: [stable, active]
 project: FireGestures-script
 directory: popup-change-protocol
 file:
@@ -47,6 +48,9 @@ Just copy & paste a line of the `FireGestures.generatePopup()`'s parameter array
 * 0.1 - February 2012
   * {: .changed} Renamed to \[Popup\] Change Protocol.
   * {: .added} Added popup list.
+
+* 0.2 - January 2014
+  * {: .fixed} Updated to work again after FireFox/FireGestures/whatever internal changes.
 {: .changelog}
 
 ## Plans

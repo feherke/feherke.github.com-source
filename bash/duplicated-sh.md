@@ -5,6 +5,7 @@ meta:
   description: Create a list of all duplicated files based on comparing their checksums.
 date: 2007-03-26
 tag: cleanup
+status: [stable, active]
 project: Bash-script
 directory: duplicated
 file:

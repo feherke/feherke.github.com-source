@@ -4,6 +4,7 @@ title: taborder.sh
 meta:
   description: Reorders the controls in the XFM file based on the declarations in the Pas file.
 date: 2010-09-20
+status: [stable, inactive]
 project: bash-script
 directory: taborder
 file:

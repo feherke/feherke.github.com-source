@@ -5,6 +5,7 @@ meta:
   description: Generates an image with astrological calendar for a month.
   keywords: astrology, calendar, astrolog, image
 date: 2013-11-17
+status: [stable, dormant]
 project: Perl-script
 directory: astrocal
 file:

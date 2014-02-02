@@ -5,6 +5,7 @@ meta:
   description: Changes the protocol between plain and secure HTTP
   keyword: switch, protocol, http, httpd
 date: 2011-05-07
+status: [stable, abandoned]
 project: FireGestures-script
 directory: popup-change-protocol
 file:

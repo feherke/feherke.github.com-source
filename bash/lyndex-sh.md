@@ -5,6 +5,7 @@ meta:
   description: Create a word index from the Lynx traversal crawl files.
 date: 2005-10-05
 tag: search
+status: [stable, dormant]
 project: Bash-script
 directory: lyndex
 file:

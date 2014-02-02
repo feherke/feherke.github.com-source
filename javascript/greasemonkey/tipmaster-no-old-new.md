@@ -6,6 +6,7 @@ meta:
   keyword: new, post, mark
 date: 2013-03-27
 tag: TipMaster
+status: [outdated, active]
 project: Greasemonkey-script
 directory: tipmaster-no-old-new
 file:

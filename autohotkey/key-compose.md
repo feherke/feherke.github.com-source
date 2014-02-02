@@ -5,6 +5,7 @@ meta:
   description: Key compose without compose key and key combination.
   keywords: key, compose, keyboard
 date: 2013-11-17
+status: [stable, active]
 project: AutoHotkey-script
 directory: key-compose
 file:

@@ -21,3 +21,6 @@ No intention to learn [Ruby on Rails](http://rubyonrails.org/) too, but it may s
 * Statements have return values.
 * Flexible use of `break`, `next`, `redo`.
 * Anonymous `Proc`s.
+* Functions are first-class citizens.
+
+{% reallist %}

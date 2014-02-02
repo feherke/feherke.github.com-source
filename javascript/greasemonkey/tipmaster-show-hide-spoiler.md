@@ -6,6 +6,7 @@ meta:
   keyword: show, hide, spoiler, hidden
 date: 2012-03-07
 tag: TipMaster
+status: [stable, active]
 project: Greasemonkey-script
 directory: tipmaster-show-hide-spoiler
 file:

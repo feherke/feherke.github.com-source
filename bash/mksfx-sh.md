@@ -4,6 +4,7 @@ title: mksfx.sh
 meta:
   description: Add a shell script header to a compressed file, to make it selfextractor.
 date: 2005-07-07
+status: [stable, inactive]
 project: Bash-script
 directory: mksfx
 file:

@@ -5,8 +5,9 @@ meta:
   description: Highlights the OP's and own messages in a thread.
   keyword: highlight, author, member, handle, own, original, op
 date: 2013-11-17
+status: [stable, active]
 project: Desktop-gadget
-directory: CPUGraph.Gadget
+directory: cpu-graph
 file:
   - cpugraph.css: style
   - cpugraph.html: document

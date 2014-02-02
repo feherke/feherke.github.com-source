@@ -5,6 +5,7 @@ meta:
   description: The classic mine sweeper game in text mode.
 date: 2005-12-27
 tag: game
+status: [stable, inactive]
 bstyle: |
   .w, .b, .l, .m { font-weight: bold; }
   .s { color: #e5e5e5; }

@@ -6,6 +6,7 @@ meta:
   keyword: highlight, author, member, handle, own, original, op
 date: 2012-03-24
 tag: TipMaster
+status: [stable, active]
 project: Greasemonkey-script
 directory: tipmaster-author-highlight
 file:

@@ -4,7 +4,9 @@ title: Version
 meta:
   description: Exposes some relevant version numbers.
   keyword: version
-date: 2012-02-20
+date: 2013-11-20
+tag: tag
+status: [stable, active]
 project: Jekyll-plugin
 directory: version
 file:

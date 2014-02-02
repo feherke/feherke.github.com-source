@@ -3,7 +3,8 @@ layout: page
 title: '[Popup,Hybrid] Copy URL and Title' # )
 meta:
   description: Displays a list of formats and copies a link to the clipboard
-date: 2011-05-08
+date: 2014-01-30
+status: [stable, active]
 project: FireGestures-script
 directory: popup-hybrid-copy-url-and-title
 file:
@@ -25,6 +26,7 @@ Currently the following formats are included :
 * [Org-Mode](http://orgmode.org/) ( Org Emacs Mode )
 * Plain text
 * [POD](http://perldoc.perl.org/perlpod.html) ( Plain Old Documentation )
+* [reStructuredText](http://docutils.sourceforge.net/rst.html) ( reStructuredText )
 * [RDoc](http://rdoc.rubyforge.org/) ( Ruby Document )
 * [Textile](http://textile.thresholdstate.com/)
 * [TGML](http://tipmaster.com/includes/tgmlinfo.cfm) ( Tecumseh Group Markup Language )
@@ -74,6 +76,12 @@ inside the placeholders are not allowed. Only two fields exist : url and text. I
 * 0.4 - February 2012
   * {: .added} Added DocBook link format.
   * {: .added} Possibility to escape special characters.
+
+* 0.5 - December 2013
+  * {: .added} Added reStructuredText link format.
+
+* 0.6 - January 2014
+  * {: .fixed} Updated to work again after FireFox/FireGestures/whatever internal changes.
 {: .changelog}
 
 ## Plans

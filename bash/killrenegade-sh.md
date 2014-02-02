@@ -5,6 +5,7 @@ meta:
   description: Kill the processes with given name which use to much resources.
 date: 2005-07-24
 tag: cleanup
+status: [stable, dormant]
 project: Bash-script
 directory: killrenegade
 file:

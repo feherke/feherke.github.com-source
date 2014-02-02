@@ -41,6 +41,8 @@ Fehérke's GitHub Site == glue between Fehérke's GitHub hosted projects
 
 <section id=content>
 
+<div id=attribute>
+
 {% capture crumb %}{% realcrumb %}{% endcapture %}
 {% if crumb != '' %}
 <div id=breadcrumb>
@@ -55,6 +57,16 @@ Tag :
 {% endfor %}{% else %}<a href="/tag.html#{{ page.tag }}">{{ page.tag }}</a>{% endif %}
 </div>
 {% endif %}
+
+{% if page.status %}
+<div id=status>
+Status :
+{% if page.status[0] %}{% for status in page.status %}<a href="/status.html#{{ status }}" title="{{ site.status[status] }}">{{ status }}</a>{% unless forloop.last %},{% endunless %}
+{% endfor %}{% else %}<a href="/status.html#{{ page.status }}" title="{{ site.status[page.status] }}">{{ page.status }}</a>{% endif %}
+</div>
+{% endif %}
+
+</div>
 
 <div class=clear></div>
 
@@ -73,7 +85,11 @@ Tag :
 </nav>
 
 <div id=tagcloud title="Tag cloud">
-{{ site.realcloud | markdownify }}
+{{ site.realtagcloud | markdownify }}
+</div>
+
+<div id=statuslist title="Status list">
+{{ site.realstatuslist | markdownify }}
 </div>
 
 </div> <!-- #sidebar -->
@@ -98,7 +114,7 @@ Tag :
 </ul>
 
 <ul>
-<li>Page <span title="{{ page.url | split: '/' | last | remove: '.html' }}">{{ page.url | split: '/' | last | remove: '.html' }}</span> last modified {{ page.date }}.</li>
+<li>Page <span title="{{ page.url | split: '/' | last | remove: '.html' }}">{{ page.url | split: '/' | last | remove: '.html' }}</span> last modified <span title="{{ page.date | relative }}">{{ page.date }}</span>.</li>
 <li>Copyright &copy; {{ site.time | date: '%Y' }}, <a href="/about.html">Fehérke</a></li>
 <li class=icon-cookie>Cookie not used</li>
 </ul>

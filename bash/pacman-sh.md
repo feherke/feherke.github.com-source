@@ -6,6 +6,7 @@ meta:
   keywords: pacman, pacman-g2, wrapper, frugalware
 date: 2013-11-17
 tag: frugalware
+status: [stable, active]
 project: bash-script
 directory: pacman
 file:

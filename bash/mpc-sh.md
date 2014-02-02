@@ -5,6 +5,7 @@ meta:
   description: Just a rudimental frontend for the most basic music playing functionalities.
 date: 2011-05-28
 tag: media
+status: [stable, active]
 bstyle: |
   .s { color: #e5e5e5; }
   .y { color: #cdcd00; }

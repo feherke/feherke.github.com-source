@@ -5,6 +5,7 @@ meta:
   description: Searches for the previously single-clicked word
 date: 2012-02-02
 tag: search
+status: [stable, active]
 bstyle: |
   strong.cursor {
     color: red;

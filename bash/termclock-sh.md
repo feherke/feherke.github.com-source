@@ -4,6 +4,7 @@ title: termclock.sh
 meta:
   description: Analog clock displayed using only bash arithmetics and tput.
 date: 2008-09-10
+status: [stable, inactive]
 project: bash-script
 directory: termclock
 file:

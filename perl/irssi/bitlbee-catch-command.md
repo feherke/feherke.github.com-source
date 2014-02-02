@@ -5,6 +5,7 @@ meta:
   description: Catch BitlBee commands sent accidentally to other channels.
 date: 2012-02-24
 tag: BitlBee
+status: [stable, active]
 project: Irssi-script
 directory: bitlbee-catch-command
 file:

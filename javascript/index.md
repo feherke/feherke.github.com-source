@@ -15,7 +15,8 @@ Sadly I have no great JavaScript project of my own to share, but some of the min
 
 ## My favorite JavaScript features
 
-* `false`, 0, '', `null`, `undefined`, `NaN` are false, anything else is true.
+* `false`, 0, \'\', `null`, `undefined`, `NaN` are false, anything else is true.
 * JSON array and hash literals.
 * Anonymous `function`s.
+* Functions are first-class citizens.
 * Fat arrow `=>` functions.

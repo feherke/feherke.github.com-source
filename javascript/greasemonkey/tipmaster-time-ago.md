@@ -6,6 +6,7 @@ meta:
   keyword: time ago
 date: 2012-02-16
 tag: TipMaster
+status: [stable, active]
 project: Greasemonkey-script
 directory: tipmaster-time-ago
 file:

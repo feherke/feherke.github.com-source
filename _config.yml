@@ -101,3 +101,12 @@ filetype:
 #  xpm: image # NOT READY YET
   "1": man
   "6": man
+status:
+  stable: As far as I know it is functional.
+  unstable: Has known bugs, but can be used.
+  outdated: Once stable, now needs update to be stable again.
+  buggy: Not to be used.
+  active: Developed occasionally and tested regularly.
+  inactive: Neither developed or tested regularly, but I keep an eye on it.
+  dormant: Currently not developed or tested, but planned to resurrect it.
+  abandoned: No current nor future development or testing planned.

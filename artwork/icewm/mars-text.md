@@ -5,6 +5,7 @@ meta:
   description: Theme with redish color palette using textual buttons.
 date: 2013-02-10
 tag: theme
+status: [stable, active]
 bstyle: |
   p.sample {
     color: #c0c000;
